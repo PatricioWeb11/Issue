@@ -1,0 +1,5 @@
+catalog.http.port: 8080
+connection_string: mongodb://issue-mongodb:27017
+db_name: issuedb
+username: mongo
+password: mongo
